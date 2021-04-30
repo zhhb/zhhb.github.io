@@ -105,7 +105,7 @@ permalink_pinyin:
   enable: true # Enable this plugin
   separator: "-" # Separator of the slug, default: '-'
   exclude: /ignore_post/ # Regex for which post should skip
-## Themes: https://hexo.io/themes/
+#Themes: https://hexo.io/themes/
 theme: tranquilpeak
 
 # Deployment
